@@ -13,7 +13,7 @@
 <text x="42" y="49" fill="#a6b1c8" font-family="monospace" font-size="15" letter-spacing="2">HELLO, WORLD / DATA &amp; BUSINESS</text>
 <text x="42" y="118" fill="#f4f6fb" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="43">I'M FARHAN</text>
 <text x="42" y="169" fill="#247bff" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="43">SIRKHOT.</text>
-<text x="44" y="211" fill="#f4f6fb" font-family="Arial, Helvetica, sans-serif" font-size="19">Aspiring Data Analyst | Business Analytics</text>
+<text x="44" y="211" fill="#f4f6fb" font-family="Arial, Helvetica, sans-serif" font-size="19"><g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#f4f6fb"></text>
 <text x="44" y="248" fill="#a6b1c8" font-family="Arial, Helvetica, sans-serif" font-size="16">Turning data into actionable business insights.</text>
 <rect x="42" y="280" width="455" height="48" rx="12" fill="#101a2b" stroke="#24334d"/>
 <circle cx="64" cy="304" r="5" fill="#ff354f"/>
