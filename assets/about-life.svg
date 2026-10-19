@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="About Farhan and interests">
+<title>About Farhan and interests</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#101b30"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#6c83a9" opacity=".22"/></pattern>
+</defs>
+<rect width="1000" height="300" rx="22" fill="url(#bg)"/>
+<rect width="1000" height="300" rx="22" fill="url(#dots)"/>
+<rect x="1" y="1" width="998" height="298" rx="21" fill="none" stroke="#263752"/>
+
+<text x="35" y="48" fill="#247bff" font-family="monospace" font-size="14" letter-spacing="2">01 / ABOUT ME</text>
+<text x="35" y="92" fill="#f4f6fb" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="28">Curious by nature. Analytical by approach.</text>
+<text x="35" y="132" fill="#a6b1c8" font-family="Arial, Helvetica, sans-serif" font-size="17">I enjoy exploring datasets, finding patterns, and translating</text>
+<text x="35" y="158" fill="#a6b1c8" font-family="Arial, Helvetica, sans-serif" font-size="17">results into clear, practical business insights.</text>
+<rect x="35" y="195" width="280" height="65" rx="12" fill="#101a2b" stroke="#24334d"/>
+<text x="53" y="221" fill="#ff354f" font-family="monospace" font-size="12">FOCUS</text><text x="53" y="244" fill="#f4f6fb" font-family="Arial, Helvetica, sans-serif" font-size="15">Data analysis &amp; BI</text>
+<rect x="333" y="195" width="280" height="65" rx="12" fill="#101a2b" stroke="#24334d"/>
+<text x="351" y="221" fill="#247bff" font-family="monospace" font-size="12">BUILD</text><text x="351" y="244" fill="#f4f6fb" font-family="Arial, Helvetica, sans-serif" font-size="15">Dashboards &amp; projects</text>
+<rect x="631" y="195" width="334" height="65" rx="12" fill="#101a2b" stroke="#24334d"/>
+<text x="649" y="221" fill="#ff354f" font-family="monospace" font-size="12">LEARN</text><text x="649" y="244" fill="#f4f6fb" font-family="Arial, Helvetica, sans-serif" font-size="15">Tools, methods &amp; business</text>
+</svg>
