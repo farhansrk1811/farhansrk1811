@@ -32,7 +32,7 @@
 ## Connect with me
 
 - **GitHub:** [farhansrk1811](https://github.com/farhansrk1811)
-- **LinkedIn:** Add your exact LinkedIn profile URL
+- **LinkedIn:** - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/farhan-sirkhot-b05884321/)
 - **Portfolio:** Add your portfolio URL, if available
 
 ---
